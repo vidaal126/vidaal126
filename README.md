@@ -1,28 +1,41 @@
-## Bem-vindo(a) ao perfil do Arthur Vidal 😁
 
- <div>
-   <a href="https://github.com/vidaal126">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vidaal126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidaal126&layout=compact&langs_count=6&theme=tokyonight"/>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Artur!;" />
+</h1>
+
+<div  align="center" >
+  - 🔭 Atualmente estou trabalhando como freelancer ...
+  <br>
+- 🌱 Atualmente estou trabalhando com react, typescript, Tailwind css ...
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Data Science" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
-
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
-
-### Entre em Contato comigo nas redes abaixo!!
-
-<div> 
-  <a href="https://instagram.com/_vidaal?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  <a href = "mailto:avidal826@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-vidal-1860b6269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,typescript" />
 </div>
+
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
+</picture>
+</div>
+<br>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
+
+
+
 
 
