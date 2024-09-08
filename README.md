@@ -25,4 +25,4 @@
   <a href="https://www.linkedin.com/in/arthur-vidal-1860b6269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/vidaal126/vidaal126/blob/output/github-contribution-grid-snake.svg)
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif
