@@ -4,6 +4,11 @@
    <a href="https://github.com/vidaal126">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vidaal126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidaal126&layout=compact&langs_count=6&theme=tokyonight"/>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+ </picture>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,4 +30,4 @@
   <a href="https://www.linkedin.com/in/arthur-vidal-1860b6269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif
+
