@@ -28,3 +28,30 @@
 <br>
 
 ![Snake animation](https://github.com/vidaal126/vidaal126/blob/output/github-contribution-grid-snake.svg)
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: vidaal126  # Substitua pelo seu nome de usuário
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Gera a cobra com base em todos os commits históricos
+          global_range: true
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
