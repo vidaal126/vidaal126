@@ -1,10 +1,4 @@
-## Bem-vindo(a) ao perfil do Arthur Vidal 😁
-
-<div>
-   <a href="https://github.com/vidaal126">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vidaal126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   </a>
-</div>
+## Bem-vindo(a) ao perfil do Arthur Vidal 
 
 ---
 
