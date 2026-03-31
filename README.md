@@ -34,4 +34,4 @@
 
 Olá, eu sou o **Arthur Vidal**, apaixonado por **desenvolvimento de software**, com foco em **Node.js**, **NestJS** e **Prisma**. Tenho experiência em diversas tecnologias e estou sempre buscando aprender e me aprimorar.
 
-Se você tem interesse em colaborar em projetos ou conversar sobre tecnologia, **não hesite em me contactar!** 😄
+Se você tem interesse em colaborar em projetos ou conversar sobre tecnologia, **não hesite em me contactar!** 
