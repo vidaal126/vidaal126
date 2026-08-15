@@ -1,13 +1,11 @@
 <h2 align="center">Arthur Vidal — Engenheiro de Software Pleno</h2>
 
 <p align="center">
-  <b>Node.js · NestJS · TypeScript · Python · LLMs · Microsserviços · Clean Architecture</b><br/>
+  <b>Node.js, NestJS, TypeScript, Python, LLMs, Microsserviços, Clean Architecture</b><br/>
   Brasília, DF · <a href="https://www.linkedin.com/in/arthurvidalsn/">LinkedIn</a>
 </p>
 
----
-
-### 👨‍💻 Sobre Mim
+<h3>👨‍💻 Sobre Mim</h3>
 
 Engenheiro de Software Pleno com foco em **back-end escalável** e **arquitetura de software**. Atuo com Node.js + NestJS no desenvolvimento de APIs REST e microsserviços, aplicando Clean Architecture e princípios SOLID. Tenho experiência com Python e integração de **LLMs** para automação de fluxos inteligentes.
 
@@ -16,9 +14,7 @@ Engenheiro de Software Pleno com foco em **back-end escalável** e **arquitetura
 - 🎯 Foco em Clean Architecture, DDD e sistemas de alta disponibilidade
 - 📍 Brasília, DF
 
----
-
-### 🛠️ Stack
+<h3>🛠️ Stack</h3>
 
 <div align="center">
 
@@ -35,18 +31,7 @@ Engenheiro de Software Pleno com foco em **back-end escalável** e **arquitetura
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vidaal126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidaal126&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
----
-
-### 📫 Contato
+<h3>📫 Contato</h3>
 
 <div align="center">
   <a href="mailto:avidal826@gmail.com">
@@ -54,8 +39,5 @@ Engenheiro de Software Pleno com foco em **back-end escalável** e **arquitetura
   </a>
   <a href="https://www.linkedin.com/in/arthurvidalsn/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/vidaal126" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
